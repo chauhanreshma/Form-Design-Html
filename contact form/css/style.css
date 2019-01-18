@@ -41,7 +41,7 @@ form input[type="text"],textarea{
 	color: darkgray;
    margin: 9px 25px;
 }
-input[type=submit]{
+input[type=submit]:focus {
 	background-color:#00b241 ;
 	width: 85%;
 	padding: 6px;
